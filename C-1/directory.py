@@ -17,17 +17,17 @@
 
 # Python
 # string
-dir(str)
-# integer
-dir(int)
-# dictionary
-dir(dict)
-# float
-dir(float)
-# understand the built in functions
-help()
+# dir(str)
+# # integer
+# dir(int)
+# # dictionary
+# dir(dict)
+# # float
+# dir(float)
+# # understand the built in functions
+# help()
 
 string = "hello world"
 
 
-print(string.title())
+print(string.upper())

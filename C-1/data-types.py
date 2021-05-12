@@ -2,19 +2,19 @@
 
 # Javascript Datatypes
 
-var integer = 3
-let string = 'hello world'
-var boolean = True
-const array = ['test', 'my', 'array']
-var object {
-    John: '10.2',
-    Sally: '12.1',
-    Bob: '7.4'
-    #Key Value Pairs
-}
-console.log("Hello World")
+# var integer = 3
+# let string = 'hello world'
+# var boolean = True
+# const array = ['test', 'my', 'array']
+# var object {
+#     John: '10.2',
+#     Sally: '12.1',
+#     Bob: '7.4'
+#     #Key Value Pairs
+# }
+# console.log("Hello World")
 
-# Python Version
+# # Python Version
 
 int = 3
 string = "hello world"

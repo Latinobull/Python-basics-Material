@@ -5,7 +5,6 @@ user_input2 = int(input("Enter your age:"))
 
 # print(message)
 
-
 message2 = "Welcome to Python Class {} You are {} years old".format(
     user_input, user_input2
 )
