@@ -12,6 +12,5 @@ with open("names.txt") as myfile:
     content = myfile.read()
 
 print(content)
-print(content)
 
 # look into help(open)
