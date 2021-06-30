@@ -45,12 +45,13 @@ all_names = str(names["Name"])
 
 print(all_names)
 
-# def student_Classrooom(*args):
-#     # for allname in args:
-#     #     print("You have {} students in your class".format(len(allname)))
-#     #     for fullname in allname:
 
-#     #         print("Welcome " + str(fullname) + " to the Class")
+def student_Classrooom(*args):
+    for allname in args:
+        print("You have {} students in your class".format(len(allname)))
+        # for fullname in allname:
+
+        #     print("Welcome " + str(fullname) + " to the Class")
 
 
-# student_Classrooom(all_names)
+student_Classrooom(all_names)
